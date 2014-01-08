@@ -2,6 +2,7 @@
 
 * Anne Dougherty
 * Washington, DC
+* anne@radcampaign.com
 
 # Company
 * Radcampaign
