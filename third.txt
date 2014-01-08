@@ -1,3 +1,0 @@
-This is the third file.
-
-Let's add something to the third file and try another commit.
