@@ -1,3 +1,6 @@
 *.secret
+
 archives/*
 !archives/.gitignore
+
+stop-track*
