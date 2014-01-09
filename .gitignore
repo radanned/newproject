@@ -3,4 +3,5 @@
 archives/*
 !archives/.gitignore
 
-stop-tracking.md
+stop-track*.md
+day-two
