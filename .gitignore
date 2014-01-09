@@ -3,4 +3,4 @@
 archives/*
 !archives/.gitignore
 
-stop-track*
+stop-track*.md
